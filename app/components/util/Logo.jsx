@@ -1,7 +1,10 @@
+import {Link} from "react-router-dom";
+
+
 function Logo() {
   return (
     <h1 id="logo">
-      <a href="/">RemixExpenses</a>
+      <Link to="/">MimiCom24</Link>
     </h1>
   );
 }
