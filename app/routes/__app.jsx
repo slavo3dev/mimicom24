@@ -12,5 +12,5 @@ export default function ExpensesAppLayout() {
 }
 
 export function links() {
-    return [{ rel: 'stylehseet', href: expensesStyles}]
+    return [{ rel: 'stylesheet', href: expensesStyles}]
 }
